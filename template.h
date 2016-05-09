@@ -173,6 +173,8 @@ void ProcessFrame();
  *//*********************************************************************/
 void ResetProcess();
 
+void DetectRegions();
+
 /*********************************************************************//*!
  * @brief draw a bounding box in the camera image.
  *
